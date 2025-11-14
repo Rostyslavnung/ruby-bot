@@ -13,8 +13,8 @@
 Спочатку клонуйте репозиторій на вашу локальну машину:
 
 ```bash
-git clone [ВАШЕ_ПОСИЛАННЯ_НА_РЕПОЗИТОРІЙ]
-cd linksaverbot
+git clone https://github.com/Rostyslavnung/ruby-bot
+cd ruby-bot
 ```
 
 ### 2\. Встановлення залежностей (Гемів)
